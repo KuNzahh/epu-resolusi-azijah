@@ -2,7 +2,9 @@ Rencana Konten WPU
 -A day in mylive
  *edit capcut
  *makan dll
-    *bubur ayam
+   *sate
+   *ssoto banjar
+   *eskelapa
 -Tutorial web
 -Vlog jalan-jalan
 -struktur data
