@@ -4,6 +4,7 @@ Rencana Konten WPU
  *makan dll
    *sate
    *ssoto banjar
+   *eskelapa
 -Tutorial web
 -Vlog jalan-jalan
 -struktur data
