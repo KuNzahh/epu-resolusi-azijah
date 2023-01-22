@@ -2,6 +2,8 @@ Rencana Konten WPU
 -A day in mylive
  *edit capcut
  *makan dll
+    *bubur ayam
 -Tutorial web
 -Vlog jalan-jalan
 -struktur data
+  *file-file
